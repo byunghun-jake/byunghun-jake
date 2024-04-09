@@ -26,11 +26,3 @@
     </a>
   </div>
 </div>
-
-
-<h3 align="center">Detail Info</h3>
-<div align="center">
-  <a href="https://www.notion.so/binitiger/5b201fcb6af2433c9e39206c30262449" target="_blank" rel="noopener noreferer nofollow">
-     <img src="https://img.shields.io/badge/notion-9B9A97?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
-</div>
